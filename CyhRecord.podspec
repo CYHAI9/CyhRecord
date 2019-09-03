@@ -92,7 +92,7 @@ Pod::Spec.new do |spec|
 
 #spec.source_files  = "Classes", "Classes/**/*.{h,m}"
 #spec.exclude_files = "Classes/Exclude"
-s.vendored_frameworks = "lib/CyhRecord.framework"
+spec.vendored_frameworks = "lib/CyhRecord.framework"
   # spec.public_header_files = "Classes/**/*.h"
 
 
