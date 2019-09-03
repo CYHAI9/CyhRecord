@@ -2,6 +2,9 @@
 ```
 pod 'CyhRecord'
 ```
+```
+#import <CyhRecord/CyhRecord.h>
+```
 #### 使用
 ##### 录音
 ```
