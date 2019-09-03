@@ -3,7 +3,7 @@
 pod 'CyhRecord'
 ```
 #### 使用
-#####录音
+##### 录音
 ```
  [[CyhRecordManager manager] audioRecorderWithName:@"myRecord" Success:^(AVAudioRecorder * _Nonnull audioRecorder) {
             NSLog(@"录音器OK");
