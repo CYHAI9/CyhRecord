@@ -57,3 +57,13 @@ pod 'CyhRecord'
 ```
     [[CyhRecordManager manager] volume:1.0];
 ```
+##### 删除录音文件
+```
+ [[CyhRecordManager manager] removeRecordFileWithName:@"myRecord" Result:^(BOOL success, NSString * _Nonnull msg) {
+        
+    }];
+```
+##### 查找录音文件
+```
+  NSString * path = [[CyhRecordManager manager] getRecordFileWithName:@"myRecord"];
+```
