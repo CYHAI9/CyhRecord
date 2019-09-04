@@ -1,0 +1,16 @@
+PODS:
+  - CyhRecord (0.0.1)
+
+DEPENDENCIES:
+  - CyhRecord
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CyhRecord
+
+SPEC CHECKSUMS:
+  CyhRecord: a10cc0760bbdadda086527e294c746125d2ba14d
+
+PODFILE CHECKSUM: a99c6106607d4d59588438640639b5b915f113f8
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,6 @@
+framework module CyhRecord {
+  umbrella header "CyhRecord.h"
+
+  export *
+  module * { export * }
+}
