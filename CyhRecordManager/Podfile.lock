@@ -1,5 +1,5 @@
 PODS:
-  - CyhRecord (0.0.1)
+  - CyhRecord (0.0.2)
 
 DEPENDENCIES:
   - CyhRecord
@@ -9,7 +9,7 @@ SPEC REPOS:
     - CyhRecord
 
 SPEC CHECKSUMS:
-  CyhRecord: a10cc0760bbdadda086527e294c746125d2ba14d
+  CyhRecord: bbc618c7a5b299ff7e5b5771ae1c59cd4dfb3e45
 
 PODFILE CHECKSUM: a99c6106607d4d59588438640639b5b915f113f8
 

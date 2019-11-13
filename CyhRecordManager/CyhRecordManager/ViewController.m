@@ -66,6 +66,7 @@
     {
         [[CyhRecordManager manager] stopRecord];
     }
+   
 }
 
 - (IBAction)pausePlay:(UIButton *)sender {

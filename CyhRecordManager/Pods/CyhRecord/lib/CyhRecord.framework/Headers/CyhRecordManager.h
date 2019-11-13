@@ -67,6 +67,16 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)setPlayProgress:(CGFloat)p;
 
+/**
+ 删除录音文件
+ */
+- (void)removeRecordFileWithName:(NSString *)name Result:(void(^)(BOOL success,NSString * msg))result;
+
+/**
+ 获取录音文件路径
+ */
+- (NSString *)getRecordFileWithName:(NSString *)name;
+
 @end
 
 NS_ASSUME_NONNULL_END
